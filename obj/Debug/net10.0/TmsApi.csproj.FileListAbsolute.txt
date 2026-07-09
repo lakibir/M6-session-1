@@ -469,3 +469,4 @@ C:\Users\lakbr\OneDrive\Documents\qiyas\TmsApi-m4-session2\obj\Debug\net10.0\ref
 C:\Users\lakbr\OneDrive\Documents\qiyas\TmsApi-m4-session2\obj\Debug\net10.0\TmsApi.pdb
 C:\Users\lakbr\OneDrive\Documents\qiyas\TmsApi-m4-session2\obj\Debug\net10.0\TmsApi.genruntimeconfig.cache
 C:\Users\lakbr\OneDrive\Documents\qiyas\TmsApi-m4-session2\obj\Debug\net10.0\ref\TmsApi.dll
+C:\Users\lakbr\OneDrive\Documents\qiyas\TmsApi-m4-session2\obj\Debug\net10.0\TmsApi.sourcelink.json

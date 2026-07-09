@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace TmsApi.Entities;
 
 public class Course
@@ -6,5 +8,5 @@ public class Course
     public required string Code { get; set; }
     public required string Title { get; set; }
     public int MaxCapacity { get; set; }
-    public ICollection<Enrollment> Enrollments { get; set; } = [];
+    public ICollection<Enrollment> Enrollments { get; set; } = new List<Enrollment>();
 }
