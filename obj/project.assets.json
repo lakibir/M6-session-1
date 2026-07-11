@@ -2281,19 +2281,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lakbr\\.nuget\\packages\\": {}
+    "C:\\Users\\CSUG\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lakbr\\OneDrive\\Documents\\qiyas\\TmsApi-m4-session2\\TmsApi.csproj",
+      "projectUniqueName": "C:\\Users\\CSUG\\Desktop\\qiyas   full\\M6-session-1\\TmsApi.csproj",
       "projectName": "TmsApi",
-      "projectPath": "C:\\Users\\lakbr\\OneDrive\\Documents\\qiyas\\TmsApi-m4-session2\\TmsApi.csproj",
-      "packagesPath": "C:\\Users\\lakbr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lakbr\\OneDrive\\Documents\\qiyas\\TmsApi-m4-session2\\obj\\",
+      "projectPath": "C:\\Users\\CSUG\\Desktop\\qiyas   full\\M6-session-1\\TmsApi.csproj",
+      "packagesPath": "C:\\Users\\CSUG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CSUG\\Desktop\\qiyas   full\\M6-session-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lakbr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\CSUG\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -2369,7 +2369,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
